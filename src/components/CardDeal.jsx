@@ -6,7 +6,7 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      Discover Our Portfolio in  <br className="sm:block hidden" /> in Web/App Development.
+      Impressive Portfolio<br className="sm:block hidden" /> in Web & App Development.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       Step into our digital world where we transform innovative ideas into stunning, 
